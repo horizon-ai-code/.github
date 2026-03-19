@@ -5,16 +5,16 @@
 # Horizon AI
 #### *Intelligence is not a monolith; it is a collaborative network.*
 
----
+</div>
 
-### About Us
+## About Us
 Horizon AI is a technical collective and engineering laboratory dedicated to the democratization of high-performance autonomous systems. We recognize a critical gap in the current AI landscape: the heavy reliance on massive, cloud-bound Large Language Models (LLMs) creates bottlenecks in latency, cost, and data sovereignty. 
 
 We bridge this divide by architecting sophisticated frameworks designed specifically for **Small Language Models (SLMs)**. By optimizing these agile models to work in concert, we achieve reasoning capabilities that rival monolithic systems while maintaining the efficiency required for private infrastructure and edge deployment.
 
 ---
 
-### Field of Operation
+## Field of Operation
 **Multi-Agent Orchestration (MAO) | Edge Intelligence | Swarm Optimization**
 
 Our primary technical domain involves the development of low-overhead coordination layers. We focus on the "Intelligence at the Edge" paradigm, ensuring that models under 10B parameters—such as Phi, Llama-3, and Mistral variants—can execute complex, multi-step workflows. Our work encompasses:
@@ -25,14 +25,14 @@ Our primary technical domain involves the development of low-overhead coordinati
 
 ---
 
-### Our Mission
+## Our Mission
 To engineer the foundational infrastructure for **decentralized, multi-agent ecosystems**. 
 
 We believe the future of artificial intelligence is not found in a single, proprietary API, but in specialized, interconnected agents that are fast, local, and private. Our objective is to provide the open-source tooling and architectural patterns necessary to transform static, isolated models into dynamic, goal-oriented collaborators capable of solving real-world engineering challenges autonomously.
 
 ---
 
-### Our Focus
+## Our Focus
 
 <table align="center">
   <thead>
@@ -68,7 +68,7 @@ We believe the future of artificial intelligence is not found in a single, propr
 
 ---
 
-### Active Repositories
+## Active Repositories
 
 **[horizon-web](https://github.com/horizon-ai-code/horizon-web)**
 <br>
@@ -76,12 +76,10 @@ The primary administrative and visualization interface for our Role-Driven Multi
 
 ---
 
-### Connectivity & Resources
+## Connectivity & Resources
 
 <p align="center">
   <a href="https://horizon-ai.io">Official Website</a> &bull; 
   <a href="https://docs.horizon-ai.io">Technical Documentation</a> &bull; 
   <a href="mailto:eng@horizon-ai.io">Engineering Inquiries</a>
 </p>
-
-</div>
